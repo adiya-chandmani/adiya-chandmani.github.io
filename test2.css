@@ -1,0 +1,70 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+
+ul {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+h1 {
+    background-color: aliceblue;
+    color: black;
+    font-size: 500%;
+    border: 5px double black;
+    border-style: dashed;
+    max-width: 400px;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body li:hover {
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+a  {
+    color: aqua;
+}
+
+.btn{
+    
+   outline-style: ridge;
+    background-color: black;
+    outline-color:  white;
+    outline-width: 10px;
+    width: 150px;
+    display: block;
+    margin-right: auto;
+
+}
+
+.A{
+    background-color: palevioletred;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    padding: 30px;
+    border: 3px solid black;
+}
+
+.b{
+    background-color: palegreen;
+    color: black;
+    margin-right: auto;
+    padding: 33px;
+    border: 3px solid black;
+}
+
+.c{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+}

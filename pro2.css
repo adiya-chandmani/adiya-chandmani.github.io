@@ -1,0 +1,78 @@
+h3{
+    left: 89px;
+    text-align: center;
+   
+    line-height: 0px;
+}
+.a{
+    height: 180px;
+  
+}
+a:hover{
+    background-color: lightslategrey;
+    transition: 0.25s;
+
+}
+a{
+    line-height: 50px;
+}
+.con{
+    font-size: 30px;
+    max-width: 350px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+   margin: auto;
+    text-align: left;
+}
+
+
+.con2{
+    align-items: center;
+   
+    height: 320px;
+    display: inline-flex ;
+  
+   
+}
+
+.pic{
+    
+    float: right;
+    padding: 0 8px;
+    margin: 25px;
+    display: flex;
+}
+.pic :hover{
+    display: inline-flex;
+   
+    cursor: pointer;
+}
+
+.item{
+    width: 325px;
+    height: 275px;
+    margin: 3px;
+}
+
+.pic2{
+    
+    float: right;
+    padding: 0 8px;
+    margin: 25px;
+    display: flex;
+    
+}
+.pic2 :hover{
+    display: inline-flex;
+    
+    cursor: pointer;
+}
+
+.item :hover{
+    color: white;
+
+}

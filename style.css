@@ -1,0 +1,99 @@
+h3{
+    left: 89px;
+    text-align: center;
+   
+    line-height: 0px;
+}
+.a{
+    height: 180px;
+  
+}
+a:hover{
+    background-color: lightslategrey;
+    transition: 0.25s;
+
+}
+a{
+    line-height: 50px;
+}
+.con{
+    font-size: 30px;
+    max-width: 450px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+   margin: auto;
+    text-align: left;
+}
+
+
+.con2{
+    align-items: center;
+   
+    height: 320px;
+    display: inline-flex ;
+  
+   
+}
+
+.pic{
+    
+    float: right;
+    padding: 0 8px;
+    margin: 25px;
+    display: flex;
+}
+.pic :hover{
+    display: inline-flex;
+    filter: brightness(50%);
+    cursor: pointer;
+}
+
+.item{
+    width: 325px;
+    height: 275px;
+    margin: 3px;
+}
+
+.pic2{
+    
+    float: right;
+    padding: 0 8px;
+    margin: 25px;
+    display: flex;
+}
+.pic2 :hover{
+    display: inline-flex;
+    filter: brightness(50%);
+    cursor: pointer;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.center{
+     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+li a{
+    display: flex;
+    width: 99px;
+    text-decoration: none;
+    
+}

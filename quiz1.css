@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: coral;
+}
+ul{
+    background-color: coral;
+    
+    align-items: center;
+    display: block;
+}
+
+li{
+    
+    align-items: center;
+    max-width: 100px;
+    margin: auto;
+    text-align: center;
+}
+img{
+    border: 5px solid black;
+}
